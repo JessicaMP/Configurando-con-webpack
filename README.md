@@ -1,4 +1,4 @@
-# Filtering products with React and Redux
+﻿# Filtering products with React and Redux
 
 * Instalamos ´create-react-app´ para crear proyectos con react.
 
@@ -18,3 +18,4 @@ create-react-app name-app
 cd name-app
 yarn start
 ```
+//hola

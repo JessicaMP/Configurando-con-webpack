@@ -42,6 +42,7 @@ const ProductTable = ({ products }) => {
                 </tr>
             </thead>
             <tbody>{rows}</tbody>
+            <span>genial</span>
         </table>
     );
 }
