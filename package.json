@@ -5,6 +5,13 @@
     "build": "webpack --config webpack.config.prod.js --progress --profile --colors",
     "deploy": "gh-pages -d public"
   },
+  "keywords": [],
+  "author": "Jessica Manturano <jessica95.mp@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jessicamp/configurando-con-webpack"
+  },
+  "license": "ISC",
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-loader": "^7.1.2",
